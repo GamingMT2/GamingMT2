@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Gaming / Coding
 - 🌱 I’m currently learning ... School...
 - 💞️ I’m looking to collaborate on ... Stuff...?
-- 📫 How to reach me ... mumble#0001
+- 📫 How to reach me ... mumble#1364
 
 <!---
 GamingMT2/GamingMT2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
